@@ -11,7 +11,15 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140328204528) do
+ActiveRecord::Schema.define(version: 20140328204744) do
+
+  create_table "locations", force: true do |t|
+    t.string   "name"
+    t.string   "coordinates"
+    t.string   "external_link"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "loots", force: true do |t|
     t.string   "name"

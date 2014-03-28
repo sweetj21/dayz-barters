@@ -1,4 +1,6 @@
 DayzBarters::Application.routes.draw do
+  resources :locations
+
   resources :trades
 
   resources :loots
