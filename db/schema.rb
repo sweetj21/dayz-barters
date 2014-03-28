@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140328204900) do
+ActiveRecord::Schema.define(version: 20140328214151) do
 
   create_table "locations", force: true do |t|
     t.string   "name"
@@ -56,7 +56,7 @@ ActiveRecord::Schema.define(version: 20140328204900) do
     t.text     "received"
     t.boolean  "accepted"
     t.boolean  "completed"
-    t.text     "trace_comments"
+    t.text     "trade_comments"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
