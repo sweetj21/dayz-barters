@@ -1,4 +1,6 @@
 DayzBarters::Application.routes.draw do
+  root 'trades#index'
+
   resources :offers
 
   resources :locations
