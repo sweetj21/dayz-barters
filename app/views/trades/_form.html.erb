@@ -1,0 +1,77 @@
+<%= form_for(@trade) do |f| %>
+  <% if @trade.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@trade.errors.count, "error") %> prohibited this trade from being saved:</h2>
+
+      <ul>
+      <% @trade.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :poster_id %><br>
+    <%= f.number_field :poster_id %>
+  </div>
+  <div class="field">
+    <%= f.label :purchaser_id %><br>
+    <%= f.number_field :purchaser_id %>
+  </div>
+  <div class="field">
+    <%= f.label :location %><br>
+    <%= f.text_field :location %>
+  </div>
+  <div class="field">
+    <%= f.label :urban %><br>
+    <%= f.check_box :urban %>
+  </div>
+  <div class="field">
+    <%= f.label :strict_trade %><br>
+    <%= f.check_box :strict_trade %>
+  </div>
+  <div class="field">
+    <%= f.label :server %><br>
+    <%= f.text_field :server %>
+  </div>
+  <div class="field">
+    <%= f.label :meeting_time %><br>
+    <%= f.datetime_select :meeting_time %>
+  </div>
+  <div class="field">
+    <%= f.label :notes %><br>
+    <%= f.text_area :notes %>
+  </div>
+  <div class="field">
+    <%= f.label :threat_level %><br>
+    <%= f.number_field :threat_level %>
+  </div>
+  <div class="field">
+    <%= f.label :offered %><br>
+    <%= f.text_area :offered %>
+  </div>
+  <div class="field">
+    <%= f.label :requested %><br>
+    <%= f.text_area :requested %>
+  </div>
+  <div class="field">
+    <%= f.label :received %><br>
+    <%= f.text_area :received %>
+  </div>
+  <div class="field">
+    <%= f.label :accepted %><br>
+    <%= f.check_box :accepted %>
+  </div>
+  <div class="field">
+    <%= f.label :completed %><br>
+    <%= f.check_box :completed %>
+  </div>
+  <div class="field">
+    <%= f.label :trace_comments %><br>
+    <%= f.text_area :trace_comments %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

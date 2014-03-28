@@ -1,0 +1,1 @@
+json.extract! @trade, :id, :poster_id, :purchaser_id, :location, :urban, :strict_trade, :server, :meeting_time, :notes, :threat_level, :offered, :requested, :received, :accepted, :completed, :trace_comments, :created_at, :updated_at

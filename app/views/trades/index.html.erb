@@ -1,0 +1,55 @@
+<h1>Listing trades</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Poster</th>
+      <th>Purchaser</th>
+      <th>Location</th>
+      <th>Urban</th>
+      <th>Strict trade</th>
+      <th>Server</th>
+      <th>Meeting time</th>
+      <th>Notes</th>
+      <th>Threat level</th>
+      <th>Offered</th>
+      <th>Requested</th>
+      <th>Received</th>
+      <th>Accepted</th>
+      <th>Completed</th>
+      <th>Trace comments</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @trades.each do |trade| %>
+      <tr>
+        <td><%= trade.poster_id %></td>
+        <td><%= trade.purchaser_id %></td>
+        <td><%= trade.location %></td>
+        <td><%= trade.urban %></td>
+        <td><%= trade.strict_trade %></td>
+        <td><%= trade.server %></td>
+        <td><%= trade.meeting_time %></td>
+        <td><%= trade.notes %></td>
+        <td><%= trade.threat_level %></td>
+        <td><%= trade.offered %></td>
+        <td><%= trade.requested %></td>
+        <td><%= trade.received %></td>
+        <td><%= trade.accepted %></td>
+        <td><%= trade.completed %></td>
+        <td><%= trade.trace_comments %></td>
+        <td><%= link_to 'Show', trade %></td>
+        <td><%= link_to 'Edit', edit_trade_path(trade) %></td>
+        <td><%= link_to 'Destroy', trade, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Trade', new_trade_path %>

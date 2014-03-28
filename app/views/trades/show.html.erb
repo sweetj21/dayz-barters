@@ -1,0 +1,79 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Poster:</strong>
+  <%= @trade.poster_id %>
+</p>
+
+<p>
+  <strong>Purchaser:</strong>
+  <%= @trade.purchaser_id %>
+</p>
+
+<p>
+  <strong>Location:</strong>
+  <%= @trade.location %>
+</p>
+
+<p>
+  <strong>Urban:</strong>
+  <%= @trade.urban %>
+</p>
+
+<p>
+  <strong>Strict trade:</strong>
+  <%= @trade.strict_trade %>
+</p>
+
+<p>
+  <strong>Server:</strong>
+  <%= @trade.server %>
+</p>
+
+<p>
+  <strong>Meeting time:</strong>
+  <%= @trade.meeting_time %>
+</p>
+
+<p>
+  <strong>Notes:</strong>
+  <%= @trade.notes %>
+</p>
+
+<p>
+  <strong>Threat level:</strong>
+  <%= @trade.threat_level %>
+</p>
+
+<p>
+  <strong>Offered:</strong>
+  <%= @trade.offered %>
+</p>
+
+<p>
+  <strong>Requested:</strong>
+  <%= @trade.requested %>
+</p>
+
+<p>
+  <strong>Received:</strong>
+  <%= @trade.received %>
+</p>
+
+<p>
+  <strong>Accepted:</strong>
+  <%= @trade.accepted %>
+</p>
+
+<p>
+  <strong>Completed:</strong>
+  <%= @trade.completed %>
+</p>
+
+<p>
+  <strong>Trace comments:</strong>
+  <%= @trade.trace_comments %>
+</p>
+
+<%= link_to 'Edit', edit_trade_path(@trade) %> |
+<%= link_to 'Back', trades_path %>

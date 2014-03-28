@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  poster_id: 1
+  purchaser_id: 1
+  location: MyString
+  urban: false
+  strict_trade: false
+  server: MyString
+  meeting_time: 2014-03-28 16:45:28
+  notes: MyText
+  threat_level: 1
+  offered: MyText
+  requested: MyText
+  received: MyText
+  accepted: false
+  completed: false
+  trace_comments: MyText
+
+two:
+  poster_id: 1
+  purchaser_id: 1
+  location: MyString
+  urban: false
+  strict_trade: false
+  server: MyString
+  meeting_time: 2014-03-28 16:45:28
+  notes: MyText
+  threat_level: 1
+  offered: MyText
+  requested: MyText
+  received: MyText
+  accepted: false
+  completed: false
+  trace_comments: MyText

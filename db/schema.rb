@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140328180941) do
+ActiveRecord::Schema.define(version: 20140328204528) do
 
   create_table "loots", force: true do |t|
     t.string   "name"
@@ -19,6 +19,26 @@ ActiveRecord::Schema.define(version: 20140328180941) do
     t.boolean  "stackable"
     t.boolean  "experimental"
     t.string   "external_link"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "trades", force: true do |t|
+    t.integer  "poster_id"
+    t.integer  "purchaser_id"
+    t.string   "location"
+    t.boolean  "urban"
+    t.boolean  "strict_trade"
+    t.string   "server"
+    t.datetime "meeting_time"
+    t.text     "notes"
+    t.integer  "threat_level"
+    t.text     "offered"
+    t.text     "requested"
+    t.text     "received"
+    t.boolean  "accepted"
+    t.boolean  "completed"
+    t.text     "trace_comments"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

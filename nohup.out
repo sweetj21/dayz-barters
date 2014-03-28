@@ -1,0 +1,24 @@
+[2014-03-28 14:23:25] INFO  WEBrick 1.3.1
+[2014-03-28 14:23:25] INFO  ruby 1.9.3 (2013-11-22) [x86_64-linux]
+[2014-03-28 14:23:25] INFO  WEBrick::HTTPServer#start: pid=2854 port=3000
+=> Booting WEBrick
+=> Rails 4.0.2 application starting in development on http://0.0.0.0:3000
+=> Run `rails server -h` for more startup options
+=> Ctrl-C to shutdown server
+
+
+Started GET "/" for 192.168.0.114 at 2014-03-28 14:23:26 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/railties-4.0.2/lib/rails/templates/rails/welcome/index.html.erb (2.3ms)
+Completed 200 OK in 48ms (Views: 29.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users" for 192.168.0.114 at 2014-03-28 14:23:30 -0400
+Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users"
+  Rendered users/index.html.erb within layouts/application (1.3ms)
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[2014-03-28 14:24:32] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-03-28 14:24:36] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-03-28 14:24:39] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
