@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  trade_id: 1
+  offered: MyText
+  purchaser_id: 1
+  threat_level: 1
+  accepted: false
+
+two:
+  trade_id: 1
+  offered: MyText
+  purchaser_id: 1
+  threat_level: 1
+  accepted: false

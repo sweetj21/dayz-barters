@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Trade:</strong>
+  <%= @offer.trade_id %>
+</p>
+
+<p>
+  <strong>Offered:</strong>
+  <%= @offer.offered %>
+</p>
+
+<p>
+  <strong>Purchaser:</strong>
+  <%= @offer.purchaser_id %>
+</p>
+
+<p>
+  <strong>Threat level:</strong>
+  <%= @offer.threat_level %>
+</p>
+
+<p>
+  <strong>Accepted:</strong>
+  <%= @offer.accepted %>
+</p>
+
+<%= link_to 'Edit', edit_offer_path(@offer) %> |
+<%= link_to 'Back', offers_path %>
