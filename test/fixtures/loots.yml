@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  type: 
+  stackable: false
+  experimental: false
+  external_link: MyString
+
+two:
+  name: MyString
+  type: 
+  stackable: false
+  experimental: false
+  external_link: MyString

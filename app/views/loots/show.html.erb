@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @loot.name %>
+</p>
+
+<p>
+  <strong>Type:</strong>
+  <%= @loot.type %>
+</p>
+
+<p>
+  <strong>Stackable:</strong>
+  <%= @loot.stackable %>
+</p>
+
+<p>
+  <strong>Experimental:</strong>
+  <%= @loot.experimental %>
+</p>
+
+<p>
+  <strong>External link:</strong>
+  <%= @loot.external_link %>
+</p>
+
+<%= link_to 'Edit', edit_loot_path(@loot) %> |
+<%= link_to 'Back', loots_path %>

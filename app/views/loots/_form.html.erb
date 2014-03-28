@@ -1,0 +1,37 @@
+<%= form_for(@loot) do |f| %>
+  <% if @loot.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@loot.errors.count, "error") %> prohibited this loot from being saved:</h2>
+
+      <ul>
+      <% @loot.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %><br>
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :type %><br>
+    <%= f.text_field :type %>
+  </div>
+  <div class="field">
+    <%= f.label :stackable %><br>
+    <%= f.check_box :stackable %>
+  </div>
+  <div class="field">
+    <%= f.label :experimental %><br>
+    <%= f.check_box :experimental %>
+  </div>
+  <div class="field">
+    <%= f.label :external_link %><br>
+    <%= f.text_field :external_link %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
