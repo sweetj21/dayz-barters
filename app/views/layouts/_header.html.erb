@@ -4,9 +4,27 @@
       <%= link_to "DayZ Barters", root_path, id: "logo", class: "home-logo" %>
       <nav>
         <ul class="nav pull-right">
-          <li><%= link_to root_path do %>
-            &nbsp;Home<% end %>
+          <li><%= link_to trades_path do %>
+	    <span class="fa fa-tag"></span>
+            &nbsp;Trades<% end %>
 	  </li>
+	  <li><%= link_to users_path do %>
+	    <span class="fa fa-user"></span>
+            &nbsp;Users<% end %>
+          </li>
+	  <li><%= link_to loots_path do %>
+	    <span class="fa fa-briefcase"></span>
+            &nbsp;Loot<% end %>
+          </li>
+          <li><%= link_to locations_path do %>
+	    <span class="fa fa-globe"></span>
+            &nbsp;Locations<% end %>
+          </li>
+          <li><%= link_to offers_path do %>
+	    <span class="fa fa-ticket"></span>
+            &nbsp;My Offers<% end %>
+          </li>
+
         </ul>
       </nav>
     </div>
