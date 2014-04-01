@@ -547,3 +547,2540 @@ Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-03-28 17:33:23
 [2014-03-28 17:54:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
 [2014-03-28 17:54:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
 [2014-03-28 17:54:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[2014-03-28 18:05:12] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:34:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:34:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:34:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:34:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:34:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:34:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:34:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:34:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:34:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:34:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:34:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:34:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:34:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:34:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:34:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:34:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+=> Booting WEBrick
+=> Rails 4.0.2 application starting in development on http://0.0.0.0:3000
+=> Run `rails server -h` for more startup options
+=> Ctrl-C to shutdown server
+
+
+Started GET "/" for 192.168.0.114 at 2014-03-28 17:54:40 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by TradesController#index as HTML
+  [1m[35mTrade Load (0.3ms)[0m  SELECT "trades".* FROM "trades"
+  Rendered trades/index.html.erb within layouts/application (39.5ms)
+Completed 200 OK in 136ms (Views: 88.1ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-03-28 17:54:41 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-03-28 17:54:41 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-03-28 17:54:41 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-03-28 17:54:41 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-03-28 17:54:41 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-03-28 17:54:41 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-03-28 17:54:41 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-03-28 17:54:41 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-03-28 17:54:41 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-03-28 17:54:41 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-03-28 17:54:41 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-03-28 17:54:41 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-03-28 17:54:41 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-03-28 17:54:41 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-03-28 17:54:41 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-03-28 17:54:41 -0400
+
+
+Started GET "/trades/new" for 192.168.0.114 at 2014-03-28 18:02:52 -0400
+Processing by TradesController#new as HTML
+  Rendered trades/_form.html.erb (131.0ms)
+  Rendered trades/new.html.erb within layouts/application (138.1ms)
+Completed 200 OK in 149ms (Views: 144.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/trades" for 192.168.0.114 at 2014-03-28 18:05:12 -0400
+Processing by TradesController#index as HTML
+  [1m[36mTrade Load (0.2ms)[0m  [1mSELECT "trades".* FROM "trades"[0m
+  Rendered trades/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 13ms (Views: 11.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 192.168.0.114 at 2014-04-01 10:34:16 -0400
+Processing by TradesController#index as HTML
+  [1m[35mTrade Load (0.4ms)[0m  SELECT "trades".* FROM "trades"
+  Rendered trades/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 9ms (Views: 8.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-04-01 10:34:16 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-04-01 10:34:16 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-04-01 10:34:16 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-04-01 10:34:16 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-04-01 10:34:16 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-04-01 10:34:16 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-04-01 10:34:16 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-01 10:34:16 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-04-01 10:34:16 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-04-01 10:34:16 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-01 10:34:16 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-01 10:34:16 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-01 10:34:16 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-01 10:34:16 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-01 10:34:16 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-04-01 10:34:16 -0400
+
+
+Started GET "/trades/new" for 192.168.0.114 at 2014-04-01 10:51:17 -0400
+Processing by TradesController#new as HTML
+  Rendered trades/_form.html.erb (10.9ms)
+  Rendered trades/new.html.erb within layouts/application (11.8ms)
+Completed 200 OK in 19ms (Views: 17.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trades/new" for 192.168.0.114 at 2014-04-01 10:51:44 -0400
+Processing by TradesController#new as HTML
+  Rendered trades/_form.html.erb (11.8ms)
+  Rendered trades/new.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 20ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-04-01 10:51:44 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-04-01 10:51:44 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-04-01 10:51:44 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-04-01 10:51:44 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-04-01 10:51:44 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-04-01 10:51:44 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-04-01 10:51:44 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-01 10:51:44 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-04-01 10:51:44 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-01 10:51:44 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-04-01 10:51:44 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-01 10:51:44 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-01 10:51:44 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-01 10:51:44 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-04-01 10:51:44 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-01 10:51:44 -0400
+
+
+Started GET "/trades/new" for 192.168.0.114 at 2014-04-01 10:51:47 -0400
+Processing by TradesController#new as HTML
+  Rendered trades/_form.html.erb (8.8ms)
+  Rendered trades/new.html.erb within layouts/application (9.4ms)
+Completed 200 OK in 16ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-04-01 10:51:47 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-04-01 10:51:47 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-04-01 10:51:47 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-04-01 10:51:47 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-04-01 10:51:47 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-04-01 10:51:47 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-04-01 10:51:47 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-04-01 10:51:47 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-04-01 10:51:47 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-01 10:51:47 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-01 10:51:47 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-01 10:51:47 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-01 10:51:47 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-01 10:51:47 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-04-01 10:51:47 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-01 10:51:47 -0400
+
+
+Started GET "/" for 192.168.0.114 at 2014-04-01 10:51:49 -0400
+[2014-04-01 10:51:49] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:49] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:49] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:49] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:49] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:49] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 10:51:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:27] INFO  WEBrick 1.3.1
+[2014-04-01 11:05:27] INFO  ruby 1.9.3 (2013-11-22) [x86_64-linux]
+[2014-04-01 11:05:27] INFO  WEBrick::HTTPServer#start: pid=2889 port=3000
+=> Booting WEBrick
+=> Rails 4.0.2 application starting in development on http://0.0.0.0:3000
+=> Run `rails server -h` for more startup options
+=> Ctrl-C to shutdown server
+
+
+Started GET "/trades" for 192.168.0.114 at 2014-04-01 11:05:28 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by TradesController#index as HTML
+  [1m[35mTrade Load (0.2ms)[0m  SELECT "trades".* FROM "trades"
+  Rendered trades/index.html.erb within layouts/application (19.0ms)
+[2014-04-01 11:05:29] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:29] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:29] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:29] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:29] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:29] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:29] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:29] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:29] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:29] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:29] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:29] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:29] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:29] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:29] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:36] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:36] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:36] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:36] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:36] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:36] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:36] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:36] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:36] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:36] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:36] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:36] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:36] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:36] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:36] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:05:39] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+Completed 200 OK in 718ms (Views: 668.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:29 -0400
+
+
+Started GET "/users" for 192.168.0.114 at 2014-04-01 11:05:36 -0400
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (10.6ms)
+Completed 200 OK in 29ms (Views: 22.4ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-04-01 11:05:36 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-04-01 11:05:36 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-04-01 11:05:36 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-04-01 11:05:36 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-04-01 11:05:36 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-04-01 11:05:36 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-04-01 11:05:36 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:36 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:36 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:36 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:36 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:36 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:36 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:36 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-01 11:05:36 -0400
+
+
+Started GET "/users/1" for 192.168.0.114 at 2014-04-01 11:05:38 -0400
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered users/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 14ms (Views: 12.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/users" for 192.168.0.114 at 2014-04-01 11:05:39 -0400
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 14ms (Views: 13.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users" for 192.168.0.114 at 2014-04-01 11:08:14 -0400
+Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users"
+  Rendered users/index.html.erb within layouts/application (1.8ms)
+Completed 500 Internal Server Error in 36ms
+
+ActionView::Template::Error (Missing partial layouts/shim with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+  * "/home/millinge/RAILS/dayz-barters/app/views"
+  * "/usr/local/rvm/gems/ruby-1.9.3-p484/gems/twitter-bootstrap-rails-2.2.8/app/views"
+):
+     5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+     6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+     7:   <%= csrf_meta_tags %>
+     8:   <%= render 'layouts/shim' %>
+     9: </head>
+    10: <body>
+    11: 
+  app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb__2544679726474908951_69894084411280'
+
+
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (10.3ms)
+
+
+Started GET "/users" for 192.168.0.114 at 2014-04-01 11:08:59 -0400
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (1.7ms)
+  Rendered layouts/_shim.html.erb (0.3ms)
+  Rendered layouts/_header.html.erb (7.1ms)
+Completed 500 Internal Server Error in 21ms
+
+ActionView::Template::Error (undefined method `user_signed_in?' for #<#<Class:0x007f23000df118>:0x0000000421a7d8>):
+     8: 	    <span class="fa fa-bookmark"></span>
+     9:             &nbsp;Home<% end %>
+    10: 	  </li>
+    11: 	  <% if user_signed_in? %>
+    12:             <li><%= link_to devices_path do %>
+    13:               <span class="fa fa-hdd-o"></span>
+    14:               &nbsp;Devices<% end %>
+  app/views/layouts/_header.html.erb:11:in `_app_views_layouts__header_html_erb__2116350555566476396_69894086714920'
+  app/views/layouts/application.html.erb:12:in `_app_views_layouts_application_html_erb__2544679726474908951_69894084411280'
+
+
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.7ms)
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.4ms)
+
+
+Started GET "/users" for 192.168.0.114 at 2014-04-01 11:09:38 -0400
+Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.4ms)[0m  SELECT "users".* FROM "users"
+  Rendered users/index.html.erb within layouts/application (9.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (36.5ms)
+Completed 500 Internal Server Error in 63ms
+
+ActionView::Template::Error (undefined method `user_signed_in?' for #<#<Class:0x007f22f844f968>:0x007f22f844e9c8>):
+     8: 	    <span class="fa fa-bookmark"></span>
+     9:             &nbsp;Home<% end %>
+    10: 	  </li>
+    11: 	  <% if user_signed_in? %>
+    12:             <li><%= link_to devices_path do %>
+    13:               <span class="fa fa-hdd-o"></span>
+    14:               &nbsp;Devices<% end %>
+  app/views/layouts/_header.html.erb:11:in `_app_views_layouts__header_html_erb__2116350555566476396_69894086714920'
+  app/views/layouts/application.html.erb:12:in `_app_views_layouts_application_html_erb__2544679726474908951_69894084411280'
+
+
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.7ms)
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.5ms)
+
+
+Started GET "/users" for 192.168.0.114 at 2014-04-01 11:12:55 -0400
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (9.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (7.4ms)
+Completed 500 Internal Server Error in 35ms
+
+ActionView::Template::Error (undefined local variable or method `devices_path' for #<#<Class:0x007f22f86d1588>:0x007f22f8233238>):
+     8: 	    <span class="fa fa-bookmark"></span>
+     9:             &nbsp;Home<% end %>
+    10: 	  </li>
+    11:             <li><%= link_to devices_path do %>
+    12:               <span class="fa fa-hdd-o"></span>
+    13:               &nbsp;Devices<% end %>
+    14:             </li>
+  app/views/layouts/_header.html.erb:11:in `_app_views_layouts__header_html_erb__2116350555566476396_69894088892800'
+  app/views/layouts/application.html.erb:12:in `_app_views_layouts_application_html_erb__2544679726474908951_69894084411280'
+
+
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (10.1ms)
+
+
+Started GET "/users" for 192.168.0.114 at 2014-04-01 11:13:57 -0400
+Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users"
+  Rendered users/index.html.erb within layouts/application (1.8ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (5.6ms)
+Completed 500 Internal Server Error in 21ms
+
+ActionView::Template::Error (undefined local variable or method `about_path' for #<#<Class:0x007f22f86d1588>:0x00000003d2ae30>):
+    4:   </small>
+    5:   <nav>
+    6:     <ul>
+    7:       <li><%= link_to "About",   about_path %></li>
+    8:       <li><%= link_to "Contact", contact_path %></li>
+    9:     </ul>
+   10:   </nav>
+  app/views/layouts/_footer.html.erb:7:in `_app_views_layouts__footer_html_erb___7313765466086531_69894086872660'
+  app/views/layouts/application.html.erb:15:in `_app_views_layouts_application_html_erb__2544679726474908951_69894084411280'
+
+
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.7ms)
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.4ms)
+
+
+Started GET "/users" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (1.6ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 17ms (Views: 16.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:51] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:51] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:51] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:20 -0400
+
+
+Started GET "/" for 192.168.0.114 at 2014-04-01 11:14:25 -0400
+Processing by TradesController#index as HTML
+  [1m[35mTrade Load (0.2ms)[0m  SELECT "trades".* FROM "trades"
+  Rendered trades/index.html.erb within layouts/application (16.6ms)
+  Rendered layouts/_shim.html.erb (0.2ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 34ms (Views: 30.2ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 192.168.0.114 at 2014-04-01 11:14:41 -0400
+Processing by TradesController#index as HTML
+  [1m[36mTrade Load (0.2ms)[0m  [1mSELECT "trades".* FROM "trades"[0m
+  Rendered trades/index.html.erb within layouts/application (1.6ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 15ms (Views: 14.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:42 -0400
+
+
+Started GET "/" for 192.168.0.114 at 2014-04-01 11:14:51 -0400
+Processing by TradesController#index as HTML
+  [1m[35mTrade Load (0.2ms)[0m  SELECT "trades".* FROM "trades"
+  Rendered trades/index.html.erb within layouts/application (1.7ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 15ms (Views: 14.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:51 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:51 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:51 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:51 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:14:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-01 11:14:52 -0400
+
+
+Started GET "/" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+Processing by TradesController#index as HTML
+  [1m[36mTrade Load (0.2ms)[0m  [1mSELECT "trades".* FROM "trades"[0m
+  Rendered trades/index.html.erb within layouts/application (4.5ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 27ms (Views: 26.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:02 -0400
+
+
+Started GET "/" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+Processing by TradesController#index as HTML
+  [1m[35mTrade Load (0.2ms)[0m  SELECT "trades".* FROM "trades"
+  Rendered trades/index.html.erb within layouts/application (1.7ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 16ms (Views: 14.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:15:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:27 -0400
+
+
+Started GET "/" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+Processing by TradesController#index as HTML
+  [1m[36mTrade Load (0.2ms)[0m  [1mSELECT "trades".* FROM "trades"[0m
+  Rendered trades/index.html.erb within layouts/application (1.9ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 17ms (Views: 15.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-04-01 11:15:41 -0400
+
+
+Started GET "/trades/1" for 192.168.0.114 at 2014-04-01 11:15:49 -0400
+Processing by TradesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mTrade Load (0.2ms)[0m  SELECT "trades".* FROM "trades" WHERE "trades"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered trades/show.html.erb within layouts/application (1.7ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 20ms (Views: 18.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trades/1" for 192.168.0.114 at 2014-04-01 11:16:22 -0400
+Processing by TradesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mTrade Load (0.1ms)[0m  [1mSELECT "trades".* FROM "trades" WHERE "trades"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  Rendered trades/show.html.erb within layouts/application (1.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 17ms (Views: 15.1ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-04-01 11:16:22 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 192.168.0.114 at 2014-04-01 11:16:22 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 192.168.0.114 at 2014-04-01 11:16:22 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 192.168.0.114 at 2014-04-01 11:16:22 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-04-01 11:16:22 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-04-01 11:16:22 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-04-01 11:16:22 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:16:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:20:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-01 11:16:23 -0400
+
+
+Started GET "/trades/1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+Processing by TradesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mTrade Load (0.1ms)[0m  SELECT "trades".* FROM "trades" WHERE "trades"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered trades/show.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 58ms (Views: 56.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/custom.css?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-01 11:20:41 -0400
+
+
+Started GET "/trades" for 192.168.0.114 at 2014-04-01 11:20:46 -0400
+Processing by TradesController#index as HTML
+  [1m[36mTrade Load (0.2ms)[0m  [1mSELECT "trades".* FROM "trades"[0m
+  Rendered trades/index.html.erb within layouts/application (1.6ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 16ms (Views: 15.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trades" for 192.168.0.114 at 2014-04-01 11:22:51 -0400
+Processing by TradesController#index as HTML
+  [1m[35mTrade Load (0.2ms)[0m  SELECT "trades".* FROM "trades"
+  Rendered trades/index.html.erb within layouts/application (1.7ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 68ms (Views: 67.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/custom.css?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:22:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:23:10] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-04-01 11:22:52 -0400
+
+
+Started GET "/trades" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+Processing by TradesController#index as HTML
+  [1m[36mTrade Load (0.2ms)[0m  [1mSELECT "trades".* FROM "trades"[0m
+  Rendered trades/index.html.erb within layouts/application (1.7ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 37ms (Views: 36.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/custom.css?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-04-01 11:23:10 -0400
+
+
+Started GET "/trades" for 192.168.0.114 at 2014-04-01 11:24:50 -0400
+Processing by TradesController#index as HTML
+  [1m[35mTrade Load (0.2ms)[0m  SELECT "trades".* FROM "trades"
+  Rendered trades/index.html.erb within layouts/application (1.4ms)
+Completed 500 Internal Server Error in 12ms
+
+ActionView::Template::Error (Undefined mixin 'box_sizing'.
+  (in /home/millinge/RAILS/dayz-barters/app/assets/stylesheets/custom.css.scss:14)):
+    2: <html>
+    3: <head>
+    4:   <title>DayzBarters</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8:   <%= render 'layouts/shim' %>
+  app/assets/stylesheets/custom.css.scss:14:in `box_sizing'
+  app/assets/stylesheets/custom.css.scss:14
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__2544679726474908951_69894084411280'
+
+
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.7ms)
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p484/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.8ms)
+
+
+Started GET "/trades" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+Processing by TradesController#index as HTML
+  [1m[36mTrade Load (0.2ms)[0m  [1mSELECT "trades".* FROM "trades"[0m
+  Rendered trades/index.html.erb within layouts/application (1.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 71ms (Views: 69.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/custom.css?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:24:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:25:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[2014-04-01 11:25:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-01 11:26:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-04-01 11:24:58 -0400
+
+
+Started GET "/trades/1" for 192.168.0.114 at 2014-04-01 11:25:12 -0400
+Processing by TradesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mTrade Load (0.1ms)[0m  SELECT "trades".* FROM "trades" WHERE "trades"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered trades/show.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 20ms (Views: 17.5ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/trades" for 192.168.0.114 at 2014-04-01 11:25:14 -0400
+Processing by TradesController#index as HTML
+  [1m[36mTrade Load (0.2ms)[0m  [1mSELECT "trades".* FROM "trades"[0m
+  Rendered trades/index.html.erb within layouts/application (1.6ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 15ms (Views: 14.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trades/new" for 192.168.0.114 at 2014-04-01 11:25:17 -0400
+Processing by TradesController#new as HTML
+  Rendered trades/_form.html.erb (102.0ms)
+  Rendered trades/new.html.erb within layouts/application (103.3ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 117ms (Views: 116.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trades" for 192.168.0.114 at 2014-04-01 11:25:22 -0400
+Processing by TradesController#index as HTML
+  [1m[35mTrade Load (0.2ms)[0m  SELECT "trades".* FROM "trades"
+  Rendered trades/index.html.erb within layouts/application (1.6ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 15ms (Views: 14.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trades" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+Processing by TradesController#index as HTML
+  [1m[36mTrade Load (0.2ms)[0m  [1mSELECT "trades".* FROM "trades"[0m
+  Rendered trades/index.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 39ms (Views: 38.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/custom.css?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-04-01 11:26:09 -0400
+
+
+Started GET "/" for 192.168.0.114 at 2014-04-01 11:26:17 -0400
+Processing by TradesController#index as HTML
+  [1m[35mTrade Load (0.2ms)[0m  SELECT "trades".* FROM "trades"
+  Rendered trades/index.html.erb within layouts/application (1.3ms)
+[2014-04-01 11:26:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
