@@ -57,4 +57,5 @@ gem 'bootstrap-sass', '2.3.2.0'
 gem 'twitter-bootstrap-rails', '2.2.8'
 gem 'bootstrap-will_paginate', '0.0.9'
 gem 'bootstrap-datepicker-rails', '1.3.0.1'
+gem 'roo'
 

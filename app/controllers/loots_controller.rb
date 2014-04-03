@@ -1,10 +1,17 @@
 class LootsController < ApplicationController
+  require 'csv'
+  require 'iconv'
   before_action :set_loot, only: [:show, :edit, :update, :destroy]
 
   # GET /loots
   # GET /loots.json
   def index
     @loots = Loot.all
+    respond_to do |format|
+      format.html
+      format.csv { send_data @loots.to_csv }
+      format.xls { send_data @loots.to_csv(col_sep: "\t") }
+    end
   end
 
   # GET /loots/1
@@ -61,6 +68,11 @@ class LootsController < ApplicationController
     end
   end
 
+  def import
+    Loot.import(params[:file])
+    redirect_to root_url, notice: "Loot imported."
+  end
+
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_loot
@@ -69,6 +81,6 @@ class LootsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def loot_params
-      params.require(:loot).permit(:name, :type, :stackable, :experimental, :external_link)
+      params.require(:loot).permit(:name, :loot_type, :stackable, :experimental, :external_link)
     end
 end

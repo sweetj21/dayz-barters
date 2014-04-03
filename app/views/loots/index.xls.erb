@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:o="urn:schemas-microsoft-com:office:office"
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:html="http://www.w3.org/TR/REC-html40">
+  <Worksheet ss:Name="Sheet1">
+    <Table>
+      <Row>
+        <Cell><Data ss:Type="String">ID</Data></Cell>
+        <Cell><Data ss:Type="String">Name</Data></Cell>
+        <Cell><Data ss:Type="String">Type</Data></Cell>
+        <Cell><Data ss:Type="String">Stackable</Data></Cell>
+        <Cell><Data ss:Type="String">Experimental</Data></Cell>
+        <Cell><Data ss:Type="String">External_Link</Data></Cell>
+      </Row>
+    <% @loots.each do |loot| %>
+      <Row>
+        <Cell><Data ss:Type="Number"><%= loot.id %></Data></Cell>
+        <Cell><Data ss:Type="String"><%= loot.name %></Data></Cell>
+        <Cell><Data ss:Type="String"><%= loot.loot_type %></Data></Cell>
+        <Cell><Data ss:Type="Number"><%= loot.stackable %></Data></Cell>
+        <Cell><Data ss:Type="Number"><%= loot.experimental %></Data></Cell>
+        <Cell><Data ss:Type="Number"><%= loot.external_link %></Data></Cell>
+      </Row>
+    <% end %>
+    </Table>
+  </Worksheet>
+</Workbook>

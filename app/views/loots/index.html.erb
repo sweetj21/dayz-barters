@@ -18,7 +18,7 @@
     <% @loots.each do |loot| %>
       <tr>
         <td><%= loot.name %></td>
-        <td><%= loot.type %></td>
+        <td><%= loot.loot_type %></td>
         <td><%= loot.stackable %></td>
         <td><%= loot.experimental %></td>
         <td><%= loot.external_link %></td>
@@ -31,5 +31,19 @@
 </table>
 
 <br>
-
 <%= link_to 'New Loot', new_loot_path %>
+
+<br>
+
+<h2>Export Loot</h2>
+<%= link_to "CSV", loots_path(format: "csv") %>
+<%= link_to "Excel", loots_path(format: "xls") %>
+
+<br>
+
+<h2>Import Loot</h2>
+<%= form_tag import_loots_path, multipart: true do %>
+  <%= file_field_tag :file %><br>
+  <%= submit_tag "Import" %>
+<% end %>
+

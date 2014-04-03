@@ -7,7 +7,9 @@ DayzBarters::Application.routes.draw do
 
   resources :trades
 
-  resources :loots
+  resources :loots do
+    collection { post :import }
+  end
 
   resources :users
 

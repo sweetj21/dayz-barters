@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140328214151) do
+ActiveRecord::Schema.define(version: 20140403153603) do
 
   create_table "locations", force: true do |t|
     t.string   "name"
@@ -23,7 +23,7 @@ ActiveRecord::Schema.define(version: 20140328214151) do
 
   create_table "loots", force: true do |t|
     t.string   "name"
-    t.string   "type"
+    t.string   "loot_type"
     t.boolean  "stackable"
     t.boolean  "experimental"
     t.string   "external_link"
