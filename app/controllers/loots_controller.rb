@@ -6,7 +6,7 @@ class LootsController < ApplicationController
   # GET /loots
   # GET /loots.json
   def index
-    @loots = Loot.all
+    @loots = Loot.paginate(page: params[:page], :per_page => 20)
     respond_to do |format|
       format.html
       format.csv { send_data @loots.to_csv }
@@ -70,7 +70,7 @@ class LootsController < ApplicationController
 
   def import
     Loot.import(params[:file])
-    redirect_to root_url, notice: "Loot imported."
+    redirect_to loots_path, notice: "Loot imported."
   end
 
   private
