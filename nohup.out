@@ -17322,3 +17322,1272 @@ Processing by LootsController#index as HTML
 [2014-04-03 17:53:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
 [2014-04-03 17:53:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
 [2014-04-03 17:53:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 13:28:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 13:28:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 13:28:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 13:28:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 13:28:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 13:28:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 13:28:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 13:28:50] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+  Rendered loots/index.html.erb within layouts/application (11.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 32ms (Views: 30.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/locations" for 192.168.0.114 at 2014-04-03 17:53:15 -0400
+Processing by LocationsController#index as HTML
+  [1m[36mLocation Load (0.1ms)[0m  [1mSELECT "locations".* FROM "locations"[0m
+  Rendered locations/index.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 57ms (Views: 56.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/offers" for 192.168.0.114 at 2014-04-03 17:53:15 -0400
+Processing by OffersController#index as HTML
+  [1m[35mOffer Load (0.2ms)[0m  SELECT "offers".* FROM "offers"
+  Rendered offers/index.html.erb within layouts/application (1.2ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 21ms (Views: 19.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trades" for 192.168.0.114 at 2014-04-03 17:53:16 -0400
+Processing by TradesController#index as HTML
+  [1m[36mTrade Load (0.2ms)[0m  [1mSELECT "trades".* FROM "trades"[0m
+  Rendered trades/index.html.erb within layouts/application (1.4ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_alerts.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 21ms (Views: 19.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 192.168.0.114 at 2014-04-07 13:28:49 -0400
+Processing by TradesController#index as HTML
+  [1m[35mTrade Load (0.4ms)[0m  SELECT "trades".* FROM "trades"
+  Rendered trades/index.html.erb within layouts/application (3.4ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 25ms (Views: 23.4ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/custom.css?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/locations.css?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/loots.css?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/offers.css?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/trades.css?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/users.css?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/assets/fontawesome-webfont.woff" for 192.168.0.114 at 2014-04-07 13:28:50 -0400
+
+
+Started GET "/loots" for 192.168.0.114 at 2014-04-07 13:28:52 -0400
+Processing by LootsController#index as HTML
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.2ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 0
+  Rendered loots/index.html.erb within layouts/application (10.7ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 30ms (Views: 29.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/loots?page=2" for 192.168.0.114 at 2014-04-07 13:28:55 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"2"}
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.1ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 20
+  Rendered loots/index.html.erb within layouts/application (3.8ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 23ms (Views: 22.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/loots?page=1" for 192.168.0.114 at 2014-04-07 13:28:57 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"1"}
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.2ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 0
+  Rendered loots/index.html.erb within layouts/application (29.6ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 50ms (Views: 48.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trades" for 192.168.0.114 at 2014-04-07 13:29:01 -0400
+Processing by TradesController#index as HTML
+  [1m[36mTrade Load (0.2ms)[0m  [1mSELECT "trades".* FROM "trades"[0m
+  Rendered trades/index.html.erb within layouts/application (1.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 22ms (Views: 21.2ms | ActiveRecord: 0.2ms)
+[2014-04-07 13:29:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 13:29:09] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 13:29:34] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 13:36:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 13:36:28] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 13:36:39] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 13:36:39] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 13:36:40] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+
+
+Started GET "/users" for 192.168.0.114 at 2014-04-07 13:29:02 -0400
+Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users"
+  Rendered users/index.html.erb within layouts/application (1.5ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 22ms (Views: 21.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/loots" for 192.168.0.114 at 2014-04-07 13:29:02 -0400
+Processing by LootsController#index as HTML
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.2ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 0
+  Rendered loots/index.html.erb within layouts/application (10.8ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 30ms (Views: 29.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/locations" for 192.168.0.114 at 2014-04-07 13:29:03 -0400
+Processing by LocationsController#index as HTML
+  [1m[36mLocation Load (0.2ms)[0m  [1mSELECT "locations".* FROM "locations"[0m
+  Rendered locations/index.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 20ms (Views: 19.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/offers" for 192.168.0.114 at 2014-04-07 13:29:04 -0400
+Processing by OffersController#index as HTML
+  [1m[35mOffer Load (0.1ms)[0m  SELECT "offers".* FROM "offers"
+  Rendered offers/index.html.erb within layouts/application (1.1ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 20ms (Views: 19.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/trades" for 192.168.0.114 at 2014-04-07 13:29:09 -0400
+Processing by TradesController#index as HTML
+  [1m[36mTrade Load (0.2ms)[0m  [1mSELECT "trades".* FROM "trades"[0m
+  Rendered trades/index.html.erb within layouts/application (1.4ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_alerts.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 21ms (Views: 19.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users" for 192.168.0.114 at 2014-04-07 13:29:34 -0400
+Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users"
+  Rendered users/index.html.erb within layouts/application (1.6ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 22ms (Views: 21.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trades" for 192.168.0.114 at 2014-04-07 13:36:27 -0400
+Processing by TradesController#index as HTML
+  [1m[36mTrade Load (0.2ms)[0m  [1mSELECT "trades".* FROM "trades"[0m
+  Rendered trades/index.html.erb within layouts/application (1.9ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 22ms (Views: 21.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users" for 192.168.0.114 at 2014-04-07 13:36:28 -0400
+Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT "users".* FROM "users"
+  Rendered users/index.html.erb within layouts/application (21.8ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 42ms (Views: 40.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/users" for 192.168.0.114 at 2014-04-07 13:36:38 -0400
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (1.4ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_alerts.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 21ms (Views: 20.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trades" for 192.168.0.114 at 2014-04-07 13:36:39 -0400
+Processing by TradesController#index as HTML
+  [1m[35mTrade Load (0.2ms)[0m  SELECT "trades".* FROM "trades"
+  Rendered trades/index.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_alerts.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 21ms (Views: 20.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/loots" for 192.168.0.114 at 2014-04-07 13:36:40 -0400
+Processing by LootsController#index as HTML
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.2ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 0
+  Rendered loots/index.html.erb within layouts/application (48.6ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 68ms (Views: 67.2ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/loots/import" for 192.168.0.114 at 2014-04-07 14:01:54 -0400
+Processing by LootsController#import as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"rY7rnbQCwdx2Mx9msDMAyyY2huTueFh58kIkBhO7278=", "file"=>#<ActionDispatch::Http::UploadedFile:0x007f5504b9dee8 @tempfile=#<File:/tmp/RackMultipart20140407-18960-14c5hn3>, @original_filename="loots (1).xls", @content_type="application/vnd.ms-excel", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"loots (1).xls\"\r\nContent-Type: application/vnd.ms-excel\r\n">, "commit"=>"Import"}
+  [1m[36mLoot Load (0.4ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 1.0 LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (1.5ms)[0m  [1mUPDATE "loots" SET "stackable" = ?, "updated_at" = ? WHERE "loots"."id" = 1[0m  [["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:54 UTC +00:00]]
+  [1m[35m (38.1ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 2.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 2[0m  [["name", "Canned Sardines"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (3.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 3.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 3[0m  [["name", "Canned Spaghetti"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (4.0ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 4.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 4[0m  [["name", "Canned Tuna"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (3.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 5.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 5[0m  [["name", "Can of Tactical Bacon"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (4.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 6.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 6[0m  [["name", "Canned Peaches"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (14.1ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 7.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 7[0m  [["name", "Powdered Milk"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (3.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 8.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 8[0m  [["name", "Rice"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (3.9ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 9.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 9[0m  [["name", "Crunchin Crisps"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (3.5ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 10.0 LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 10[0m  [["name", "Apple"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (6.9ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 11.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 11[0m  [["name", "Banana"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (4.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 12.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 12[0m  [["name", "Kiwi"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (17.3ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 13.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 13[0m  [["name", "Orange"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (4.2ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 14.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 14[0m  [["name", "Tomato"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (3.8ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 15.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 15[0m  [["name", "Green Pepper"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (3.2ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 16.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 16[0m  [["name", "Potato"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (5.4ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 17.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 17[0m  [["name", "Rotten Apple"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (6.1ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 18.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 18[0m  [["name", "Rotten Banana"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (4.2ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 19.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 19[0m  [["name", "Rotten Kiwi"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (5.0ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 20.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 20[0m  [["name", "Rotten Orange"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (6.4ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 21.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "loots" SET "name" = ?, "loot_type" = ?, "created_at" = ?, "updated_at" = ? WHERE "loots"."id" = 21[0m  [["name", "Rotten Tomato"], ["loot_type", "Food"], ["created_at", nil], ["updated_at", nil]]
+  [1m[35m (6.5ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 22.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 22], ["loot_type", "Food"], ["name", "Rotten Green Pepper"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 23.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 23], ["loot_type", "Food"], ["name", "Rotten Potato"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.0ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 24.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 24], ["loot_type", "Food"], ["name", "Canina Berries"], ["stackable", true], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.8ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 25.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 25], ["loot_type", "Food"], ["name", "Sambucus Berries"], ["stackable", true], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (7.4ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 26.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 26], ["loot_type", "Drink"], ["name", "Canteen"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.5ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 27.0 LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 27], ["loot_type", "Drink"], ["name", "Waterbottle"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (7.3ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 28.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 28], ["loot_type", "Drink"], ["name", "Nota Cola"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.5ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 29.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 29], ["loot_type", "Drink"], ["name", "Spite"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 30.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 30], ["loot_type", "Drink"], ["name", "Pipsi"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (9.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 31.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 31], ["loot_type", "Drink"], ["name", "Raspitin Kvas"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (7.1ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 32.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 32], ["loot_type", "Drink"], ["name", "Drink #3"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.3ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 33.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 33], ["loot_type", "Drink"], ["name", "Drink #4"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (18.8ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 34.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 34], ["loot_type", "Drink"], ["name", "Drink #5"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (3.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 35.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 35], ["loot_type", "Drink"], ["name", "Drink #6"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (4.1ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 36.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 36], ["loot_type", "Drink"], ["name", "Drink #7"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.4ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 37.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 37], ["loot_type", "Drink"], ["name", "Drink #8"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.9ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 38.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 38], ["loot_type", "Drink"], ["name", "Drink #9"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.3ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 39.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 39], ["loot_type", "Drink"], ["name", "Drink #10"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 40.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 40], ["loot_type", "Melee Weapon"], ["name", "Baseball Bat"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.3ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 41.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 41], ["loot_type", "Melee Weapon"], ["name", "Crowbar"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 42.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 42], ["loot_type", "Melee Weapon"], ["name", "Fire Extinguisher"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (8.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 43.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 43], ["loot_type", "Melee Weapon"], ["name", "Hammer"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (3.9ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 44.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 44], ["loot_type", "Melee Weapon"], ["name", "Pipe Wrench"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (8.0ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 45.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 45], ["loot_type", "Melee Weapon"], ["name", "Wrench"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 46.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 46], ["loot_type", "Melee Weapon"], ["name", "Shovel"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 47.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 47], ["loot_type", "Melee Weapon"], ["name", "Combat Knife"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.1ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 48.0 LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 48], ["loot_type", "Melee Weapon"], ["name", "Farming Hoe"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.0ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 49.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 49], ["loot_type", "Melee Weapon"], ["name", "Firefighter Axe"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (7.0ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 50.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 50], ["loot_type", "Melee Weapon"], ["name", "Hacksaw"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 51.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 51], ["loot_type", "Melee Weapon"], ["name", "Kitchen Knife"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (7.0ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 52.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 52], ["loot_type", "Melee Weapon"], ["name", "M91 Bayonet"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 53.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 53], ["loot_type", "Melee Weapon"], ["name", "M9A1 Bayonet"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (8.5ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 54.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 54], ["loot_type", "Melee Weapon"], ["name", "Machete"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.5ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 55.0 LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 55], ["loot_type", "Melee Weapon"], ["name", "SKS Bayonet"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.9ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 56.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 56], ["loot_type", "Melee Weapon"], ["name", "Sickle"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.4ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 57.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 57], ["loot_type", "Melee Weapon"], ["name", "Splitting Axe"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (7.1ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 58.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 58], ["loot_type", "Melee Weapon"], ["name", "Pitchfork"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.8ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 59.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 59], ["loot_type", "Gun Pistol"], ["name", 1911.0], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (7.1ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 60.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 60], ["loot_type", "Gun Pistol"], ["name", "Amphibia S"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.0ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 61.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 61], ["loot_type", "Gun Pistol"], ["name", "CR75"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (7.2ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 62.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 62], ["loot_type", "Gun Pistol"], ["name", "FNX45"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.9ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 63.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 63], ["loot_type", "Gun Pistol"], ["name", "Magnum"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.4ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 64.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 64], ["loot_type", "Gun Shotgun"], ["name", "IZH-43"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (10.1ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 65.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 65], ["loot_type", "Gun Shotgun"], ["name", "Sawed-off IZH-43"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (7.4ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 66.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 66], ["loot_type", "Gun Rifle"], ["name", "Blade 95"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 67.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 67], ["loot_type", "Gun Rifle"], ["name", "M4A1"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.4ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 68.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 68], ["loot_type", "Gun Rifle"], ["name", "Mosin 9130"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (4.1ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 69.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 69], ["loot_type", "Gun Rifle"], ["name", "SKS"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (3.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 70.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 70], ["loot_type", "Gun Rifle"], ["name", "Sporter 22"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 71.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 71], ["loot_type", "Tools"], ["name", "Duct Tape"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 72.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 72], ["loot_type", "Tools"], ["name", "Matchbox"], ["stackable", true], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.2ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 73.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 73], ["loot_type", "Tools"], ["name", "Pliers"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (3.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 74.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 74], ["loot_type", "Tools"], ["name", "Rope"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.0ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 75.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 75], ["loot_type", "Tools"], ["name", "Screwdriver"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.1ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 76.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 76], ["loot_type", "Tools"], ["name", "Weapon Cleaning Kit"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (8.9ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 77.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 77], ["loot_type", "Tools"], ["name", "Sewing Kit"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (14.2ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 78.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 78], ["loot_type", "Tools"], ["name", "Can Opener"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (3.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.2ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 79.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 79], ["loot_type", "Tools"], ["name", "Cooking Pot"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.3ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 80.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 80], ["loot_type", "Tools"], ["name", "Frying Pan"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.0ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 81.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 81], ["loot_type", "Tools"], ["name", "Portable Gas Stove"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.1ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 82.0 LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 82], ["loot_type", "Tools"], ["name", "Portable Gas Light"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 83.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 83], ["loot_type", "Tools"], ["name", "Small Gas Canister"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 84.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 84], ["loot_type", "Tools"], ["name", "Medium Gas Canister"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.4ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 85.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 85], ["loot_type", "Tools"], ["name", "Large Gas Canister"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (7.0ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 86.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 86], ["loot_type", "Tools"], ["name", "Alkaline Batter 9V"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.1ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 87.0 LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 87], ["loot_type", "Tools"], ["name", "Compass"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.9ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 88.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 88], ["loot_type", "Tools"], ["name", "Transmitter"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (4.4ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 89.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 89], ["loot_type", "Tools"], ["name", "Walkie Talkie"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 90.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 90], ["loot_type", "Light Source"], ["name", "Flashlight"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.0ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 91.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 91], ["loot_type", "Light Source"], ["name", "Headtorch"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 92.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 92], ["loot_type", "Light Source"], ["name", "Weapon Flashlight"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.5ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 93.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 93], ["loot_type", "Light Source"], ["name", "Pistol Flashlight"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 94.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 94], ["loot_type", "Backpack"], ["name", "Child Briefcase"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.3ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 95.0 LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 95], ["loot_type", "Backpack"], ["name", "Improvised Courier Bag"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.8ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 96.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 96], ["loot_type", "Backpack"], ["name", "Improvised Backpack"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.8ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 97.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 97], ["loot_type", "Backpack"], ["name", "Taloon Backpack"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (7.0ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 98.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 98], ["loot_type", "Backpack"], ["name", "Hunting Backpack"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (8.4ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 99.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 99], ["loot_type", "Backpack"], ["name", "Mountain Backpack"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 100.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 100], ["loot_type", "Container"], ["name", "Ammo Box"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.3ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 101.0 LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 101], ["loot_type", "Container"], ["name", "First Aid Kit"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 102.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 102], ["loot_type", "Container"], ["name", "Small Protector Case"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.8ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 103.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 103], ["loot_type", "Tools"], ["name", "Burlap Sack"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (7.1ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 104.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 104], ["loot_type", "Tools"], ["name", "Firewood"], ["stackable", true], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.1ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 105.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 105], ["loot_type", "Tools"], ["name", "Handcuffs"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (7.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 106.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 106], ["loot_type", "Tools"], ["name", "Handcuff Keys"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (4.3ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 107.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 107], ["loot_type", "Tools"], ["name", "Pen"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (4.2ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 108.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 108], ["loot_type", "Tools"], ["name", "Paper"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.2ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 109.0 LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 109], ["loot_type", "Tools"], ["name", "Spraypaint"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (4.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 110.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 110], ["loot_type", "Tools"], ["name", "Stone"], ["stackable", true], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (8.4ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 111.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 111], ["loot_type", "Tools"], ["name", "Wooden Stick"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (4.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 112.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 112], ["loot_type", "Medical"], ["name", "Blood Bag Kit"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 113.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 113], ["loot_type", "Medical"], ["name", "Blood Bag (filled)"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (7.5ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 114.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 114], ["loot_type", "Medical"], ["name", "IV Start Kit"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (3.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 115.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 115], ["loot_type", "Medical"], ["name", "Syringe"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (4.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 116.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 116], ["loot_type", "Medical"], ["name", "Defibrillator"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.2ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 117.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 117], ["loot_type", "Medical"], ["name", "Saline Bag"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (3.9ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 118.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 118], ["loot_type", "Medical"], ["name", "Blood Testing Kit"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (3.8ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 119.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 119], ["loot_type", "Medical"], ["name", "Disinfectant Spray"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (4.2ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 120.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 120], ["loot_type", "Medical"], ["name", "Alcohol Tincture"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (3.8ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 121.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 121], ["loot_type", "Medical"], ["name", "Bandage"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (5.5ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 122.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 122], ["loot_type", "Medical"], ["name", "Rags"], ["stackable", true], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (14.4ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 123.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 123], ["loot_type", "Medical"], ["name", "Splint"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (4.0ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 124.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 124], ["loot_type", "Medical"], ["name", "Tetracycline Antibiotics"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (4.2ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 125.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 125], ["loot_type", "Medical"], ["name", "Charcoal Tabs"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (3.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 126.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 126], ["loot_type", "Medical"], ["name", "Painkillers"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (6.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 127.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 127], ["loot_type", "Medical"], ["name", "Vitamin Bottle"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (4.1ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 128.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 128], ["loot_type", "Medical"], ["name", "Morphine Auto-Injector"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (4.6ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 129.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 129], ["loot_type", "Medical"], ["name", "Epinephrine"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (4.3ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 130.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 130], ["loot_type", "Medical"], ["name", "Water Purification Tablets"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (4.0ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 131.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00], ["experimental", false], ["id", 131], ["loot_type", "Medical"], ["name", "Injection Vial"], ["stackable", false], ["updated_at", Mon, 07 Apr 2014 18:01:55 UTC +00:00]]
+  [1m[35m (4.9ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 132.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:56 UTC +00:00], ["experimental", false], ["id", 132], ["loot_type", "Ammunition"], ["name", ".45 ACP Rounds"], ["stackable", true], ["updated_at", Mon, 07 Apr 2014 18:01:56 UTC +00:00]]
+  [1m[35m (6.9ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 133.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:56 UTC +00:00], ["experimental", false], ["id", 133], ["loot_type", "Ammunition"], ["name", ".357 Rounds"], ["stackable", true], ["updated_at", Mon, 07 Apr 2014 18:01:56 UTC +00:00]]
+  [1m[35m (3.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 134.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:56 UTC +00:00], ["experimental", false], ["id", 134], ["loot_type", "Ammunition"], ["name", "9mm Rounds"], ["stackable", true], ["updated_at", Mon, 07 Apr 2014 18:01:56 UTC +00:00]]
+  [1m[35m (5.3ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 135.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:56 UTC +00:00], ["experimental", false], ["id", 135], ["loot_type", "Ammunition"], ["name", ".22 Rounds"], ["stackable", true], ["updated_at", Mon, 07 Apr 2014 18:01:56 UTC +00:00]]
+  [1m[35m (5.1ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 136.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:56 UTC +00:00], ["experimental", false], ["id", 136], ["loot_type", "Ammunition"], ["name", "7.62x39mm Rounds"], ["stackable", true], ["updated_at", Mon, 07 Apr 2014 18:01:56 UTC +00:00]]
+  [1m[35m (5.2ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 137.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:56 UTC +00:00], ["experimental", false], ["id", 137], ["loot_type", "Ammunition"], ["name", "7.62x51mm Rounds"], ["stackable", true], ["updated_at", Mon, 07 Apr 2014 18:01:56 UTC +00:00]]
+  [1m[35m (4.1ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 138.0 LIMIT 1[0m
+[2014-04-07 14:01:56] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:01:56] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:01:56] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:01:56] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:01:56] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:01:56] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:01:56] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:01:56] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:02:07] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:02:12] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (34.5ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:56 UTC +00:00], ["experimental", false], ["id", 138], ["loot_type", "Ammunition"], ["name", "5.56mm Rounds"], ["stackable", true], ["updated_at", Mon, 07 Apr 2014 18:01:56 UTC +00:00]]
+  [1m[35m (3.7ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 139.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:56 UTC +00:00], ["experimental", false], ["id", 139], ["loot_type", "Ammunition"], ["name", "12 Gauge Buckshot"], ["stackable", true], ["updated_at", Mon, 07 Apr 2014 18:01:56 UTC +00:00]]
+  [1m[35m (5.2ms)[0m  commit transaction
+  [1m[36mLoot Load (0.1ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = 140.0 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "loots" ("created_at", "experimental", "id", "loot_type", "name", "stackable", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 07 Apr 2014 18:01:56 UTC +00:00], ["experimental", false], ["id", 140], ["loot_type", "Ammunition"], ["name", "12 Gauge Slug"], ["stackable", true], ["updated_at", Mon, 07 Apr 2014 18:01:56 UTC +00:00]]
+  [1m[35m (3.6ms)[0m  commit transaction
+Redirected to http://centos:3000/loots
+Completed 302 Found in 1558ms (ActiveRecord: 958.3ms)
+
+
+Started GET "/loots" for 192.168.0.114 at 2014-04-07 14:01:56 -0400
+Processing by LootsController#index as HTML
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.2ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 0
+  Rendered loots/index.html.erb within layouts/application (12.2ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 30.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.114 at 2014-04-07 14:01:56 -0400
+
+
+Started GET "/assets/locations.js?body=1" for 192.168.0.114 at 2014-04-07 14:01:56 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 192.168.0.114 at 2014-04-07 14:01:56 -0400
+
+
+Started GET "/assets/offers.js?body=1" for 192.168.0.114 at 2014-04-07 14:01:56 -0400
+
+
+Started GET "/assets/trades.js?body=1" for 192.168.0.114 at 2014-04-07 14:01:56 -0400
+
+
+Started GET "/assets/loots.js?body=1" for 192.168.0.114 at 2014-04-07 14:01:56 -0400
+
+
+Started GET "/assets/users.js?body=1" for 192.168.0.114 at 2014-04-07 14:01:56 -0400
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.114 at 2014-04-07 14:01:56 -0400
+
+
+Started GET "/loots?page=2" for 192.168.0.114 at 2014-04-07 14:01:58 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"2"}
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.2ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 20
+  Rendered loots/index.html.erb within layouts/application (12.6ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 32ms (Views: 30.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/loots?page=3" for 192.168.0.114 at 2014-04-07 14:01:59 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"3"}
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.2ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 40
+  Rendered loots/index.html.erb within layouts/application (12.3ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 53ms (Views: 51.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/loots?page=4" for 192.168.0.114 at 2014-04-07 14:02:00 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"4"}
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.2ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 60
+  Rendered loots/index.html.erb within layouts/application (12.9ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 33ms (Views: 32.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/loots?page=5" for 192.168.0.114 at 2014-04-07 14:02:02 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"5"}
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.2ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 80
+  Rendered loots/index.html.erb within layouts/application (13.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 33ms (Views: 32.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/loots?page=6" for 192.168.0.114 at 2014-04-07 14:02:03 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"6"}
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.2ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 100
+  Rendered loots/index.html.erb within layouts/application (13.1ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 33ms (Views: 31.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/loots?page=7" for 192.168.0.114 at 2014-04-07 14:02:04 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"7"}
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.2ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 120
+  Rendered loots/index.html.erb within layouts/application (12.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 30.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/loots?page=6" for 192.168.0.114 at 2014-04-07 14:02:06 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"6"}
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.2ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 100
+  Rendered loots/index.html.erb within layouts/application (12.3ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 32ms (Views: 30.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/loots?page=5" for 192.168.0.114 at 2014-04-07 14:02:12 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"5"}
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.2ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 80
+  Rendered loots/index.html.erb within layouts/application (12.4ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 56ms (Views: 54.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/loots?page=1" for 192.168.0.114 at 2014-04-07 14:02:13 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"1"}
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.2ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 0
+  Rendered loots/index.html.erb within layouts/application (13.1ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+[2014-04-07 14:03:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:03:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:08:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:08:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:08:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:08:28] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:08:29] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:08:30] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:08:39] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:13:40] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:13:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 33ms (Views: 31.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trades" for 192.168.0.114 at 2014-04-07 14:03:23 -0400
+Processing by TradesController#index as HTML
+  [1m[36mTrade Load (0.2ms)[0m  [1mSELECT "trades".* FROM "trades"[0m
+  Rendered trades/index.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 23ms (Views: 22.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users" for 192.168.0.114 at 2014-04-07 14:03:24 -0400
+Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users"
+  Rendered users/index.html.erb within layouts/application (41.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 61ms (Views: 60.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/loots" for 192.168.0.114 at 2014-04-07 14:03:25 -0400
+Processing by LootsController#index as HTML
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.2ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 0
+  Rendered loots/index.html.erb within layouts/application (12.1ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 30.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/loots/1" for 192.168.0.114 at 2014-04-07 14:03:27 -0400
+Processing by LootsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mLoot Load (0.2ms)[0m  [1mSELECT "loots".* FROM "loots" WHERE "loots"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  Rendered loots/show.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_alerts.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 20ms (Views: 19.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/loots?page=3" for 192.168.0.114 at 2014-04-07 14:08:26 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"3"}
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "loots"
+  [1m[36mLoot Load (0.2ms)[0m  [1mSELECT "loots".* FROM "loots" LIMIT 20 OFFSET 40[0m
+  Rendered loots/index.html.erb within layouts/application (13.2ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 33ms (Views: 32.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/loots?page=5" for 192.168.0.114 at 2014-04-07 14:08:27 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"5"}
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "loots"
+  [1m[36mLoot Load (0.2ms)[0m  [1mSELECT "loots".* FROM "loots" LIMIT 20 OFFSET 80[0m
+  Rendered loots/index.html.erb within layouts/application (12.9ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 56ms (Views: 55.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/loots?page=6" for 192.168.0.114 at 2014-04-07 14:08:27 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"6"}
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "loots"
+  [1m[36mLoot Load (0.2ms)[0m  [1mSELECT "loots".* FROM "loots" LIMIT 20 OFFSET 100[0m
+  Rendered loots/index.html.erb within layouts/application (13.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 33ms (Views: 32.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/loots?page=3" for 192.168.0.114 at 2014-04-07 14:08:28 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"3"}
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "loots"
+  [1m[36mLoot Load (0.3ms)[0m  [1mSELECT "loots".* FROM "loots" LIMIT 20 OFFSET 40[0m
+  Rendered loots/index.html.erb within layouts/application (52.6ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 72ms (Views: 71.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/loots?page=2" for 192.168.0.114 at 2014-04-07 14:08:29 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"2"}
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "loots"
+  [1m[36mLoot Load (0.2ms)[0m  [1mSELECT "loots".* FROM "loots" LIMIT 20 OFFSET 20[0m
+  Rendered loots/index.html.erb within layouts/application (12.4ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 32ms (Views: 30.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/loots?page=1" for 192.168.0.114 at 2014-04-07 14:08:30 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"1"}
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "loots"
+  [1m[36mLoot Load (0.2ms)[0m  [1mSELECT "loots".* FROM "loots" LIMIT 20 OFFSET 0[0m
+  Rendered loots/index.html.erb within layouts/application (12.1ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 30.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/loots/1" for 192.168.0.114 at 2014-04-07 14:08:39 -0400
+Processing by LootsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mLoot Load (0.1ms)[0m  SELECT "loots".* FROM "loots" WHERE "loots"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered loots/show.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 20ms (Views: 18.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/loots" for 192.168.0.114 at 2014-04-07 14:13:40 -0400
+Processing by LootsController#index as HTML
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.2ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 0
+  Rendered loots/index.html.erb within layouts/application (13.4ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 58ms (Views: 56.4ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/loots?page=3" for 192.168.0.114 at 2014-04-07 14:13:42 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"3"}
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.2ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 40
+  Rendered loots/index.html.erb within layouts/application (31.6ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 52ms (Views: 50.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/loots?page=4" for 192.168.0.114 at 2014-04-07 14:13:43 -0400
+Processing by LootsController#index as HTML
+  Parameters: {"page"=>"4"}
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "loots"[0m
+  [1m[35mLoot Load (0.2ms)[0m  SELECT "loots".* FROM "loots" LIMIT 20 OFFSET 60
+  Rendered loots/index.html.erb within layouts/application (52.5ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_alerts.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 73ms (Views: 71.4ms | ActiveRecord: 0.4ms)
+[2014-04-07 14:13:43] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:13:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:13:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:13:45] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:13:45] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-07 14:13:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-23 07:30:21] ERROR SignalException: SIGTERM
+	/usr/local/rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1/webrick/server.rb:98:in `select'
